@@ -1,0 +1,4 @@
+C:\Users\Pichau\source\repos\SobreCshark\Variáveis e Constantes\obj\Debug\net10.0\Variáveis e Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\SobreCshark\Variáveis e Constantes\obj\Debug\net10.0\Variáveis e Constantes.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\Variáveis e Constantes\obj\Debug\net10.0\Variáveis e Constantes.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SobreCshark\Variáveis e Constantes\obj\Debug\net10.0\Variáveis e Constantes.csproj.CoreCompileInputs.cache

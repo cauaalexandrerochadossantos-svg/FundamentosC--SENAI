@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/FundamentosC#/">
+    <Project Path="EstruturasDeDadosEmC#/EstruturasDeDadosEmC#.csproj" Id="3adb0acc-ea51-43fb-aa10-e4fc6adbfd59" />
+    <Project Path="Exercicios-FundamentoDeC/Exercicios-FundamentoDeC.csproj" Id="e8ee176c-bf4d-4fa3-b3f5-55f98e85a7c3" />
+  </Folder>
+  <Folder Name="/Notas/">
+    <File Path="Nomenclaturas.txt" />
+  </Folder>
+</Solution>

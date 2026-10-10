@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\exercicios-fundamentodec\\lista-3-estruturasderepeti\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|solutionrelative:exercicios-fundamentodec\\lista-3-estruturasderepeti\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\estruturasdedadosemc#\\operadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|solutionrelative:estruturasdedadosemc#\\operadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\exercicios-fundamentodec\\lista-2-estruturas condicionais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|solutionrelative:exercicios-fundamentodec\\lista-2-estruturas condicionais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\estruturasdedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|solutionrelative:estruturasdedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\exercicios-fundamentodec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EE176C-BF4D-4FA3-B3F5-55F98E85A7C3}|Exercicios-FundamentoDeC\\Exercicios-FundamentoDeC.csproj|solutionrelative:exercicios-fundamentodec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\estruturasdedadosemc#\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|solutionrelative:estruturasdedadosemc#\\comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|c:\\users\\pichau\\source\\repos\\sobrecshark\\estruturasdedadosemc#\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB0ACC-EA51-43FB-AA10-E4FC6ADBFD59}|EstruturasDeDadosEmC#\\EstruturasDeDadosEmC#.csproj|solutionrelative:estruturasdedadosemc#\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista-3-EstruturasDeRepeti\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Lista-3-EstruturasDeRepeti\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "Exercicios-FundamentoDeC\\Lista-3-EstruturasDeRepeti\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Lista-3-EstruturasDeRepeti\u00E7\u00E3o.cs",
+              "RelativeToolTip": "Exercicios-FundamentoDeC\\Lista-3-EstruturasDeRepeti\u00E7\u00E3o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:23:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturasDeDadosEmC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Program.cs",
+              "RelativeToolTip": "EstruturasDeDadosEmC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:16:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista-2-Estruturas Condicionais.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Lista-2-Estruturas Condicionais.cs",
+              "RelativeDocumentMoniker": "Exercicios-FundamentoDeC\\Lista-2-Estruturas Condicionais.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Lista-2-Estruturas Condicionais.cs",
+              "RelativeToolTip": "Exercicios-FundamentoDeC\\Lista-2-Estruturas Condicionais.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T18:43:09.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comentarios.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Comentarios.cs",
+              "RelativeDocumentMoniker": "EstruturasDeDadosEmC#\\Comentarios.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Comentarios.cs",
+              "RelativeToolTip": "EstruturasDeDadosEmC#\\Comentarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:07:42.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios-FundamentoDeC\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\Exercicios-FundamentoDeC\\Program.cs",
+              "RelativeToolTip": "Exercicios-FundamentoDeC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T18:54:08.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operadores.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Operadores.cs",
+              "RelativeDocumentMoniker": "EstruturasDeDadosEmC#\\Operadores.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Operadores.cs",
+              "RelativeToolTip": "EstruturasDeDadosEmC#\\Operadores.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T18:04:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Arrays.cs",
+              "RelativeDocumentMoniker": "EstruturasDeDadosEmC#\\Arrays.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SobreCshark\\EstruturasDeDadosEmC#\\Arrays.cs",
+              "RelativeToolTip": "EstruturasDeDadosEmC#\\Arrays.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:26:32.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

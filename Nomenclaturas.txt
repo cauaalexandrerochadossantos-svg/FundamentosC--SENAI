@@ -1,0 +1,16 @@
+# 💡Nomenclatura em C#
+
+Para que seu código seja legível, siga as convenções da comunidade C#. 
+
+- **`camelCase`**: usado para **variáveis locais** e **parâmetros**. A primeira palavra começa com letra minúscula e as seguintes com maiúscula.
+    - Exemplos: `int idadeDoAluno;`, `double precoFinal;`
+- **`PascalCase`**: usado para **Classes**, **Métodos**, **Propriedades** e **Constantes**. Todas as palavras começam com letra maiúscula.
+    - Exemplos de Classes: `CalculadoraDeJuros`, `SistemaDeLogin`
+    - Exemplos de Métodos: `CalcularImposto()`, `ImprimirRelatorio()`
+    - Exemplos de Constantes: `const double TaxaDeJuros = 0.05;`
+
+    Diferença importante em relação ao Java: em Java, métodos usam camelCase (calcularImposto). 
+    Em C#, métodos usam PascalCase (CalcularImposto). 
+    Repare que os próprios métodos da linguagem seguem isso: Console.WriteLine(), int.Parse(), Math.Sqrt().
+
+    Adotar essas práticas desde o início tornará seu código muito mais fácil de ler e manter.

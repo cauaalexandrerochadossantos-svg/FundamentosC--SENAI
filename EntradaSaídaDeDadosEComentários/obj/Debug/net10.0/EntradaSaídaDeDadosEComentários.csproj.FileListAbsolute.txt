@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\bin\Debug\net10.0\EntradaSaídaDeDadosEComentários.exe
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\bin\Debug\net10.0\EntradaSaídaDeDadosEComentários.deps.json
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\bin\Debug\net10.0\EntradaSaídaDeDadosEComentários.runtimeconfig.json
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\bin\Debug\net10.0\EntradaSaídaDeDadosEComentários.dll
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\bin\Debug\net10.0\EntradaSaídaDeDadosEComentários.pdb
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.dll
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\refint\EntradaSaídaDeDadosEComentários.dll
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.pdb
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaSaídaDeDadosEComentários.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\ref\EntradaSaídaDeDadosEComentários.dll
+C:\Users\Pichau\source\repos\SobreCshark\EntradaSaídaDeDadosEComentários\obj\Debug\net10.0\EntradaS.6D938E48.Up2Date

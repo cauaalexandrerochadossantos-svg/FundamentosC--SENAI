@@ -1,0 +1,4 @@
+C:\Users\Pichau\source\repos\SobreCshark\TiposDeDadosNoC#\obj\Debug\net10.0\TiposDeDadosNoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\SobreCshark\TiposDeDadosNoC#\obj\Debug\net10.0\TiposDeDadosNoC#.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\TiposDeDadosNoC#\obj\Debug\net10.0\TiposDeDadosNoC#.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SobreCshark\TiposDeDadosNoC#\obj\Debug\net10.0\TiposDeDadosNoC#.csproj.CoreCompileInputs.cache
