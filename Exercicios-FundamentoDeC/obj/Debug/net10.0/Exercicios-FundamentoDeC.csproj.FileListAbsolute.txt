@@ -1,0 +1,16 @@
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.sourcelink.json
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\bin\Debug\net10.0\Exercicios-FundamentoDeC.exe
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\bin\Debug\net10.0\Exercicios-FundamentoDeC.deps.json
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\bin\Debug\net10.0\Exercicios-FundamentoDeC.runtimeconfig.json
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\bin\Debug\net10.0\Exercicios-FundamentoDeC.dll
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\bin\Debug\net10.0\Exercicios-FundamentoDeC.pdb
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.dll
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\refint\Exercicios-FundamentoDeC.dll
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.pdb
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercicios-FundamentoDeC.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\ref\Exercicios-FundamentoDeC.dll
+C:\Users\Pichau\source\repos\SobreCshark\Exercicios-FundamentoDeC\obj\Debug\net10.0\Exercici.0C2514D6.Up2Date
